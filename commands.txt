@@ -1,0 +1,12 @@
+1. mkdir basic_repo
+2. touch index.html
+3. updated html file
+4. commit changes to index.html
+5. created remote repo on Github called basic_repo
+5. git init
+6. git remote add origin “url”
+7. git push 
+8. make more changes to index.html
+9. commit changes
+10. git push
+11. repeat
